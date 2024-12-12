@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/Items/Apple.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/Items/HarvestingTool.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/Pet/Slime_Idle.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/Tiles/Grass_1.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/Tiles/Water_1.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/UI/Fonts/ClockFont.spritefont</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/UI/DropButton.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/UI/HealthManaBar.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/UI/Pixel.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/UI/SelectedToolbar.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/UI/TempInv.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/UI/TempItemHolder.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/UI/Toolbar.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/Items/PlantInPot1.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/NPCs/Guard_NPC_1.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/NPCs/Quest_Mark.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/UI/Journal.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/UI/Journal_Background.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/UI/Journal_Left_Arrow.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/UI/Journal_Quest_Frame.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/UI/Journal_Right_Arrow.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/UI/dialogue_box.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/Items/Green_Tea_Leaf.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/Plants/Green_Plant_Tea.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/Items/Green_Tea.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/Items/Apple_Tea.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/Crafting/Kettle.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/Crafting/Kettlev2.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/Player/Player_Idle_Up.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/Player/Player_Walk_Down.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/Player/Player_Walk_Up.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/Player/Player_Idle_Down.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/Player/Player_Walk_Left.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/Player/Player_Walk_Right.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/UI/Main_Menu_Button.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/UI/Rock_Background.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/UI/Fonts/TitleFont.spritefont</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/UI/Fonts/MenuButtonFont.spritefont</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/Player/Player_Idle_Left.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/Player/Player_Idle_Right.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/Tiles/Metal_1.png</File>
+    <File>C:/Users/PC/source/repos/Project3/GameProject/Content/Tiles/Sand_1.png</File>
+  </SourceFiles>
+</SourceFileCollection>

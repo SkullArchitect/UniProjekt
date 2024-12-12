@@ -1,0 +1,52 @@
+NEW
+QUEST_NPC:Guard_1
+QUEST_NAME:Need for apples
+QUEST_DESC:The guard needs apples
+NPC_0:Hello adventurer, could you bring me four apples? I'll give you something in exchange
+NPC_0:What do you say?
+USERA_0.0:Will do
+NPC_0.0:That's great!
+USER_0.1:Not now
+NPC_0.1:Come back later then!
+ITEM:4xApple,
+REWARD:1xGreen_Plant_Tea,
+END
+NEW
+QUEST_NPC:Guard_2
+QUEST_NAME:Need for green tea leaves
+QUEST_DESC:Another guard needs tea leaves
+NPC_0:Hello adventurer, could you bring me four tea leaves? I'll give you something in exchange
+NPC_0:It will be very helpful
+USERA_0.0:Will do
+NPC_0.0:That's great!
+USER_0.1:Not now
+NPC_0.1:Come back later then!
+ITEM:4xGreen_Tea_Leaf,
+REWARD:16xApple,
+END
+NEW
+QUEST_NPC:Guard_3
+QUEST_NAME:Green tea Quest!
+QUEST_DESC:Make a nice green tea! 
+NPC_0:Hello adventurer, could you bring me green tea? I'll give you something in exchange
+NPC_0:It will be very helpful
+USERA_0.0:You got it!
+NPC_0.0:That's great!
+USER_0.1:Nope
+NPC_0.1:Come back later then!
+ITEM:1xGreen_Tea,
+REWARD:1xHarvestingTool,
+END
+NEW
+QUEST_NPC:Guard_4
+QUEST_NAME:APPLE TEA PLEASE!
+QUEST_DESC:Make a nice apple tea!
+NPC_0:Hello adventurer, could you bring me apple tea? I'll give you something in exchange
+NPC_0:It will be very helpful
+USERA_0.0:Yes sir!
+NPC_0.0:That's great!
+USER_0.1:Nah
+NPC_0.1:Come back later then!
+ITEM:1xApple_Tea,
+REWARD:1xHarvestingTool,
+END
